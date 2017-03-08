@@ -1,0 +1,6 @@
+K:\_boostNode\GitHub\IN2017\IN2017_Module07\Lesson02_Inheritance\Lesson02_Inheritance\bin\Debug\Lesson02_Inheritance.exe.config
+K:\_boostNode\GitHub\IN2017\IN2017_Module07\Lesson02_Inheritance\Lesson02_Inheritance\bin\Debug\Lesson02_Inheritance.exe
+K:\_boostNode\GitHub\IN2017\IN2017_Module07\Lesson02_Inheritance\Lesson02_Inheritance\bin\Debug\Lesson02_Inheritance.pdb
+K:\_boostNode\GitHub\IN2017\IN2017_Module07\Lesson02_Inheritance\Lesson02_Inheritance\obj\Debug\Lesson02_Inheritance.csprojResolveAssemblyReference.cache
+K:\_boostNode\GitHub\IN2017\IN2017_Module07\Lesson02_Inheritance\Lesson02_Inheritance\obj\Debug\Lesson02_Inheritance.exe
+K:\_boostNode\GitHub\IN2017\IN2017_Module07\Lesson02_Inheritance\Lesson02_Inheritance\obj\Debug\Lesson02_Inheritance.pdb

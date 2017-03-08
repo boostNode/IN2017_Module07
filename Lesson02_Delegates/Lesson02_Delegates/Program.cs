@@ -20,20 +20,24 @@ namespace Lesson02_Delegates
             // greeting
             Console.WriteLine("Module 07 - Lesson 02 - Delegates\n");
 
-            // instantiate delegates (a delegate acts like an alias to the assigned method)
+            // instantiate delegates (a delegate acts like an alias to the assigned method, in other words another name for the method)
+            //   NOTE: do not confuse my anaolgy of an 'alias' with the C# keyword alias
             DelegateAlias alias1, alias2, alias3;
+
             alias1 = new DelegateAlias(Method1);    // assign method reference to delegate
             alias2 = new DelegateAlias(Method2);    // assign method reference to delegate
-            alias3 = new DelegateAlias(Method3);    // assign method reference to delegate
+
+            alias3 = Method1;   // shorthand syntax to assign event handler to alias3 (aka assign method to alias3 invocation list)
+            alias3 += Method2;  // shorthand syntax to assign additional event handler to alias3 (aka add method to alias3 invocation list)
+            alias3 += Method3;  // shorthand syntax to assign additional event handler to alias3 (aka add method to alias3 invocation list)
 
             // demonstrate delegate use
-            alias1("using the 1st alias, alias1");
-            alias2("using the 2nd alias, alias2");
-            alias3("using the 3rd alias, alias3");
+            alias1("using the 1st delegate, alias1");
+            alias2("using the 2nd delegate, alias2");
+            alias3("using the 3rd delegate, alias3");
 
             // wait on user to close console
             Console.Write("\nPress 'Enter' to exit: "); Console.ReadLine();
-
         }
 
         public static void Method1(String s)

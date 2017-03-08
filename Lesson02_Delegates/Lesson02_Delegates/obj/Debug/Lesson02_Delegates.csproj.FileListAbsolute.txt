@@ -7,3 +7,6 @@ E:\_boostNode\GitHub\IN2017\IN2017_Module07\Lesson02_Delegates\Lesson02_Delegate
 K:\_boostNode\GitHub\IN2017\IN2017_Module07\Lesson02_Delegates\Lesson02_Delegates\bin\Debug\Lesson02_Delegates.exe.config
 K:\_boostNode\GitHub\IN2017\IN2017_Module07\Lesson02_Delegates\Lesson02_Delegates\obj\Debug\Lesson02_Delegates.exe
 K:\_boostNode\GitHub\IN2017\IN2017_Module07\Lesson02_Delegates\Lesson02_Delegates\obj\Debug\Lesson02_Delegates.pdb
+K:\_boostNode\GitHub\IN2017\IN2017_Module07\Lesson02_Delegates\Lesson02_Delegates\bin\Debug\Lesson02_Delegates.exe
+K:\_boostNode\GitHub\IN2017\IN2017_Module07\Lesson02_Delegates\Lesson02_Delegates\bin\Debug\Lesson02_Delegates.pdb
+K:\_boostNode\GitHub\IN2017\IN2017_Module07\Lesson02_Delegates\Lesson02_Delegates\obj\Debug\Lesson02_Delegates.csprojResolveAssemblyReference.cache
