@@ -1,0 +1,14 @@
+K:\_boostNode\GitHub\IN2017\IN2017_Module07\WPF_Events\WPF_Events\bin\Debug\WPF_Events.exe.config
+K:\_boostNode\GitHub\IN2017\IN2017_Module07\WPF_Events\WPF_Events\bin\Debug\WPF_Events.exe
+K:\_boostNode\GitHub\IN2017\IN2017_Module07\WPF_Events\WPF_Events\bin\Debug\WPF_Events.pdb
+K:\_boostNode\GitHub\IN2017\IN2017_Module07\WPF_Events\WPF_Events\obj\Debug\WPF_Events.csprojResolveAssemblyReference.cache
+K:\_boostNode\GitHub\IN2017\IN2017_Module07\WPF_Events\WPF_Events\obj\Debug\MainWindow.g.cs
+K:\_boostNode\GitHub\IN2017\IN2017_Module07\WPF_Events\WPF_Events\obj\Debug\App.g.cs
+K:\_boostNode\GitHub\IN2017\IN2017_Module07\WPF_Events\WPF_Events\obj\Debug\WPF_Events_MarkupCompile.cache
+K:\_boostNode\GitHub\IN2017\IN2017_Module07\WPF_Events\WPF_Events\obj\Debug\WPF_Events_MarkupCompile.lref
+K:\_boostNode\GitHub\IN2017\IN2017_Module07\WPF_Events\WPF_Events\obj\Debug\MainWindow.baml
+K:\_boostNode\GitHub\IN2017\IN2017_Module07\WPF_Events\WPF_Events\obj\Debug\WPF_Events.g.resources
+K:\_boostNode\GitHub\IN2017\IN2017_Module07\WPF_Events\WPF_Events\obj\Debug\WPF_Events.Properties.Resources.resources
+K:\_boostNode\GitHub\IN2017\IN2017_Module07\WPF_Events\WPF_Events\obj\Debug\WPF_Events.csproj.GenerateResource.Cache
+K:\_boostNode\GitHub\IN2017\IN2017_Module07\WPF_Events\WPF_Events\obj\Debug\WPF_Events.exe
+K:\_boostNode\GitHub\IN2017\IN2017_Module07\WPF_Events\WPF_Events\obj\Debug\WPF_Events.pdb

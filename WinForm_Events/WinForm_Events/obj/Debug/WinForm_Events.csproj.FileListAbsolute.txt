@@ -1,0 +1,9 @@
+K:\_boostNode\GitHub\IN2017\IN2017_Module07\WinForm_Events\WinForm_Events\bin\Debug\WinForm_Events.exe.config
+K:\_boostNode\GitHub\IN2017\IN2017_Module07\WinForm_Events\WinForm_Events\bin\Debug\WinForm_Events.exe
+K:\_boostNode\GitHub\IN2017\IN2017_Module07\WinForm_Events\WinForm_Events\bin\Debug\WinForm_Events.pdb
+K:\_boostNode\GitHub\IN2017\IN2017_Module07\WinForm_Events\WinForm_Events\obj\Debug\WinForm_Events.csprojResolveAssemblyReference.cache
+K:\_boostNode\GitHub\IN2017\IN2017_Module07\WinForm_Events\WinForm_Events\obj\Debug\WinForm_Events.Form1.resources
+K:\_boostNode\GitHub\IN2017\IN2017_Module07\WinForm_Events\WinForm_Events\obj\Debug\WinForm_Events.Properties.Resources.resources
+K:\_boostNode\GitHub\IN2017\IN2017_Module07\WinForm_Events\WinForm_Events\obj\Debug\WinForm_Events.csproj.GenerateResource.Cache
+K:\_boostNode\GitHub\IN2017\IN2017_Module07\WinForm_Events\WinForm_Events\obj\Debug\WinForm_Events.exe
+K:\_boostNode\GitHub\IN2017\IN2017_Module07\WinForm_Events\WinForm_Events\obj\Debug\WinForm_Events.pdb
