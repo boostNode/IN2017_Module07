@@ -49,7 +49,7 @@ namespace Lesson02_Inheritance
     }
 
     class Comedy : Movie
-    {
+    {// inherits from Movie class
         public int FunnyScenes { get; set; }
 
         public override void Genre()
@@ -58,7 +58,7 @@ namespace Lesson02_Inheritance
         }
     }
     class Horror : Movie
-    {
+    {// inherits from Movie class
         public int ScaryScenes { get; set; }
 
         public override void Genre()
