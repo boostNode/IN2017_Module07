@@ -1,0 +1,9 @@
+E:\_boostNode\GitHub\IN2017\IN2017_Module07\Lesson02_Delegates\Lesson02_Delegates\bin\Debug\Lesson02_Delegates.exe.config
+E:\_boostNode\GitHub\IN2017\IN2017_Module07\Lesson02_Delegates\Lesson02_Delegates\bin\Debug\Lesson02_Delegates.exe
+E:\_boostNode\GitHub\IN2017\IN2017_Module07\Lesson02_Delegates\Lesson02_Delegates\bin\Debug\Lesson02_Delegates.pdb
+E:\_boostNode\GitHub\IN2017\IN2017_Module07\Lesson02_Delegates\Lesson02_Delegates\obj\Debug\Lesson02_Delegates.csprojResolveAssemblyReference.cache
+E:\_boostNode\GitHub\IN2017\IN2017_Module07\Lesson02_Delegates\Lesson02_Delegates\obj\Debug\Lesson02_Delegates.exe
+E:\_boostNode\GitHub\IN2017\IN2017_Module07\Lesson02_Delegates\Lesson02_Delegates\obj\Debug\Lesson02_Delegates.pdb
+K:\_boostNode\GitHub\IN2017\IN2017_Module07\Lesson02_Delegates\Lesson02_Delegates\bin\Debug\Lesson02_Delegates.exe.config
+K:\_boostNode\GitHub\IN2017\IN2017_Module07\Lesson02_Delegates\Lesson02_Delegates\obj\Debug\Lesson02_Delegates.exe
+K:\_boostNode\GitHub\IN2017\IN2017_Module07\Lesson02_Delegates\Lesson02_Delegates\obj\Debug\Lesson02_Delegates.pdb

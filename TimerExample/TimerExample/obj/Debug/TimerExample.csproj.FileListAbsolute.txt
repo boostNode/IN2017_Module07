@@ -1,0 +1,6 @@
+K:\_boostNode\GitHub\IN2017\IN2017_Module07\TimerExample\TimerExample\bin\Debug\TimerExample.exe.config
+K:\_boostNode\GitHub\IN2017\IN2017_Module07\TimerExample\TimerExample\bin\Debug\TimerExample.exe
+K:\_boostNode\GitHub\IN2017\IN2017_Module07\TimerExample\TimerExample\bin\Debug\TimerExample.pdb
+K:\_boostNode\GitHub\IN2017\IN2017_Module07\TimerExample\TimerExample\obj\Debug\TimerExample.csprojResolveAssemblyReference.cache
+K:\_boostNode\GitHub\IN2017\IN2017_Module07\TimerExample\TimerExample\obj\Debug\TimerExample.exe
+K:\_boostNode\GitHub\IN2017\IN2017_Module07\TimerExample\TimerExample\obj\Debug\TimerExample.pdb
